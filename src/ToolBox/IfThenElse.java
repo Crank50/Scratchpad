@@ -4,12 +4,17 @@ package ToolBox;
  * Created by Justin on 7/12/16.
  */
 
-    public class IfThenElse {
+
+
+        public class IfThenElse {
+
+
 
 
         private int currentSpeed = 100;
 
-    //if-then-else
+        //if-then-else
+
     private boolean isMoving() {
         // the "if" clause: currentSpeed is greater than zero
         if (currentSpeed > 0) {
@@ -47,6 +52,8 @@ package ToolBox;
         }
     }
 }
+
+
 
 
 

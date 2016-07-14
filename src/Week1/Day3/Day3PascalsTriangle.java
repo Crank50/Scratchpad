@@ -29,7 +29,7 @@ public class Day3PascalsTriangle {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter the row number up to which Pascal's triangle will be printed");
+        System.out.print("Enter the row number up to which Pascal's triangle will be printed: ");
         int index = scanner.nextInt();
         System.out.println(index);
         print(20);

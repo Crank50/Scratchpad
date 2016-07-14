@@ -26,11 +26,11 @@ public class Day3FibonacciwithRecursion {
 
 }
 
-package Week1.Day3;
+/*package Week1.Day3;
 
-/**
+
  * Created by Justin on 7/14/16.
- */
+
 public class Day3FibonacciwithRecursion {
     static int n1=0, n2=1, n3=0;
 
@@ -52,3 +52,4 @@ public class Day3FibonacciwithRecursion {
             printFibonacci(count-1);
         }
     }
+*/
